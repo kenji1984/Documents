@@ -1,0 +1,21 @@
+Git commands:
+
+git log -- 					show detail logs of all commits
+git log --oneline :			show logs of all commits
+git branch branch_name:		create a new branch
+git checkout branch_name:	switch branch
+git checkout sha:			check out the source until that particular commit
+git checkout master:		reverse git checkout sha. Also switch to master from branch
+
+
+Unix commands:
+
+mkdir dir_name:				Make directory
+mkdir -p dir/sub_dir		Make directory with subdirectories
+mv dir/file dir/file		Move file
+mv file_name1 file_name2	Rename file
+touch filename				Create file
+(nano filename)?			Create file
+rm filename					Remove file
+rm -Rf folder_name			Force remove folder and its subdirectories
+
