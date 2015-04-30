@@ -6,6 +6,9 @@ git branch branch_name:		create a new branch
 git checkout branch_name:	switch branch
 git checkout sha:			check out the source until that particular commit
 git checkout master:		reverse git checkout sha. Also switch to master from branch
+git clean -f -d				remove untracked files
+git add -A or *				add all untracked files
+
 
 
 Unix commands:
