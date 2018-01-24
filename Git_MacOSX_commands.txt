@@ -11,6 +11,7 @@ git add -A or *				add all untracked files
 
 
 
+
 Unix commands:
 
 mkdir dir_name:				Make directory
